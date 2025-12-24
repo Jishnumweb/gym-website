@@ -70,7 +70,7 @@ const GymNavbar = () => {
           <div className="flex items-center justify-between h-16">
             {/* LOGO */}
             <div className="flex items-center gap-2">
-              <img src="/images/logo.png" alt="Befitzone" className="h-10" />
+              <img src="/images/logo.webp" alt="Befitzone" className="h-10" />
             </div>
 
             {/* DESKTOP MENU */}
@@ -120,7 +120,7 @@ const GymNavbar = () => {
         className="fixed top-0 right-0 h-full w-[75%] max-w-sm bg-black text-white z-50 translate-x-full"
       >
         <div className="flex items-center justify-between px-5 h-16 border-b border-white/10">
-          <img src="/images/logo.png" alt="Befitzone" className="h-10" />
+          <img src="/images/logo.webp" alt="Befitzone" className="h-10" />
           <button onClick={() => setOpen(false)}>
             <X size={26} />
           </button>

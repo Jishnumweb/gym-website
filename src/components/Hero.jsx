@@ -44,7 +44,7 @@ export default function FitnessLandingPage() {
 
           {/* Athlete Image Placeholder */}
           <img
-            src="https://clipground.com/images/gym-png-images-3.png"
+            src="/images/hero.webp"
             alt="Fitness Athlete"
             className="w-full max-w-md lg:max-w-xl object-contain drop-shadow-[0_0_50px_rgba(220,38,38,0.3)]"
           />

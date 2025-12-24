@@ -165,7 +165,7 @@ const AboutSection = () => {
 
           <div ref={imageWrap} className="relative overflow-hidden">
             <img
-              src="https://images.jdmagicbox.com/v2/comp/alappuzha/d6/0477px477.x477.250825210515.c7d6/catalogue/be-fit-zone-chunakara-alappuzha-gyms-x08o96by4y.jpg"
+              src="/images/gym.webp"
               alt="Gym Training"
               className="w-full h-[420px] object-cover grayscale hover:grayscale-0 transition duration-500"
             />
